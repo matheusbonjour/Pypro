@@ -32,7 +32,7 @@ instancia._Pessoa__falar()
 
 Abstração, em POO, é o ato de expor apenas dados relevantes de uma classe,
 escondendo 
-
+asdasd
 
 # DESSA FORMA MEUS ATRIBUTOS NAO SAO PRIVADOS: 
 class Conta:
